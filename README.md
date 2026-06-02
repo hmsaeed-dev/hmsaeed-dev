@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=500&height=90&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=github&color=009688&logoColor=white)](https://hmsaeed-dev.github.io/HMS/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=for-the-badge&color=009688&abbreviated=true&base=100)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=hmsaeed-dev&style=for-the-badge&color=009688&abbreviated=true&base=100)
 
 
   ### Right Now

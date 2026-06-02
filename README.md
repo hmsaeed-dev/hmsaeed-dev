@@ -6,7 +6,6 @@
 
   ### Right Now
 - 🎯 Focused on Web Development
-- 🔨 Building — HMS Portfolio
 - 🌱 Learning — C++ OOP
 - ♟️ Chess.com 1300+ ELO *(username : HMS_aeed)*
 - 🧠 Generalist — searching for the common THREAD

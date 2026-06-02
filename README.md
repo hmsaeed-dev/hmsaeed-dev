@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=500&height=90&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=github&color=009688&logoColor=white)](https://hmsaeed101.github.io/HMS/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=github&color=009688&logoColor=white)](https://hmsaeed-dev.github.io/HMS/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=HMSaeed101&style=for-the-badge&color=009688&abbreviated=true&base=100)
 
 
@@ -38,14 +38,14 @@
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HMSaeed101&custom_title=HMS'+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hmsaeed-dev&custom_title=HMS'+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
 
 
 <p align="center">
   <table border="0" cellpadding="0" cellspacing="10">
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMSaeed101&theme=dark&hide_border=true&style=circle" alt="Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmsaeed-dev&theme=dark&hide_border=true&style=circle" alt="Streak"/>
       </td>
   </table>
 </p>

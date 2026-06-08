@@ -1,8 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=500&height=90&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=009688&width=500&height=50&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila" alt="Typing SVG" />
+  </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=github&color=009688&logoColor=white)](https://hmsaeed-dev.github.io/HMS/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=hmsaeed-dev&style=for-the-badge&color=009688&abbreviated=true&base=100)
+  <p align="center">
+    <a href="https://hmsaeed-dev.github.io/HMS/">
+      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=github&color=009688&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=for-the-badge&color=009688&abbreviated=true&base=100" alt="Visitors" />
+  </p>
+</div>
 
+---
 
   ### Right Now
 - 🎯 Focused on Web Development
@@ -35,16 +45,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=circle&logo=github&logoColor=white)
 &nbsp;
 
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hmsaeed-dev&custom_title=HMS'+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmsaeed-dev&custom_title=Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=300" width="100%" alt="Activity Graph" />
+</p>
 
 <p align="center">
-  <table border="0" cellpadding="0" cellspacing="10">
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmsaeed-dev&theme=dark&hide_border=true&style=circle" alt="Streak"/>
-      </td>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmsaeed-dev&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <sub>Built with 💻 and ♟️ by Hafiz Muhammad Saeed</sub>
 </p>

@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    <a href="https://hmsaeed-dev.github.io/HMS/">
+    <a href="https://hmsaeed.com">
       <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=github&color=009688&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;

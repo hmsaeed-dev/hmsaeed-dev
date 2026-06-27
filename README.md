@@ -1,15 +1,22 @@
 <div align="center">
+
+  <a href="https://hmsaeed.com" target="_blank" rel="noopener noreferrer">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a22,80:728649,100:8a9e60&height=200&section=header&text=Hafiz%20Muhammad%20Saeed&fontSize=55&fontFamily=Georgia&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer&descAlignY=55&descSize=18&descColor=c69c72"/>
+  </a>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=009688&width=500&height=50&lines=Hi%2C+I'm+Hafiz+Muhammad+Saeed;CS+Student+%40+UET+Taxila" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&size=28&pause=900&color=8a9e60&width=500&height=40&lines=BS+Computer+Science+UET+Taxila" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <a href="https://hmsaeed.com">
-      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=github&color=009688&logoColor=white" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=for-the-badge&color=009688&abbreviated=true&base=100" alt="Visitors" />
-  </p>
+<p align="center">
+  <a href="https://hmsaeed.com">
+    <img src="https://img.shields.io/badge/HMSaeed.com-00C7B7?style=for-the-badge&logo=auth0&color=b9d18b&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/hmsaeed" target="_blank" rel="noopener noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=for-the-badge&color=728649&abbreviated=true&base=100" alt="Visitors" />
+  </a>
+</p>
 </div>
 
 ---

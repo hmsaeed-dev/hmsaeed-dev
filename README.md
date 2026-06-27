@@ -53,7 +53,7 @@
 &nbsp;
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmsaeed-dev&custom_title=Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=300" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmsaeed-dev&custom_title=Contribution+Graph&hide_border=true&radius=16&height=300&bg_color=00000000&color=8a9e60&line=728649&point=b9d18b" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -63,3 +63,10 @@
 <p align="center">
   <sub>Built with 💻 and ♟️ by Hafiz Muhammad Saeed</sub>
 </p>
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a22,80:728649,100:8a9e60&height=100&section=footer&animation=fadeIn"/>
+
+</div>

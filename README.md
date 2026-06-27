@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmsaeed-dev&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmsaeed-dev&theme=dark&hide_border=true&background=00000000&sideNums=8a9e60&lead=8a9e60&ring=728649&fire=b9d18b&currStreakNum=ffffff" alt="Streak Stats" />
 </p>
 
 <p align="center">

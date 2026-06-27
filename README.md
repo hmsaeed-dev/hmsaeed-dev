@@ -5,16 +5,16 @@
   </a>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&size=28&pause=900&color=8a9e60&width=500&height=40&lines=BS+Computer+Science+UET+Taxila" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&size=28&pause=900&color=8a9e60&width=600&center=true&height=40&lines=BS+Computer+Science+UET+Taxila" alt="Typing SVG" />
   </a>
 
 <p align="center">
   <a href="https://hmsaeed.com">
-    <img src="https://img.shields.io/badge/HMSaeed.com-00C7B7?style=for-the-badge&logo=auth0&color=b9d18b&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/HMSaeed.com-00C7B7?style=flat&logo=auth0&color=b9d18b&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/hmsaeed" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=for-the-badge&color=728649&abbreviated=true&base=100" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=flat&color=728649&abbreviated=true&base=100" alt="Visitors" />
   </a>
 </p>
 </div>

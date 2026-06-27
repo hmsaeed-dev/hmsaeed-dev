@@ -16,9 +16,9 @@
 
   ### Right Now
 - 🎯 Focused on Web Development
-- 🌱 Learning — C++ OOP
+- 🌱 Learning C++ OOP
 - ♟️ Chess.com 1300+ ELO *(username : HMS_aeed)*
-- 🧠 Generalist — searching for the common THREAD
+- 🧠 Generalist - searching for the common THREAD
 
 
 ## Tech Stack

@@ -68,6 +68,12 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmsaeed-dev&theme=dark&hide_border=true&background=00000000&sideNums=8a9e60&lead=8a9e60&ring=728649&fire=b9d18b&currStreakNum=ffffff" alt="Streak Stats" />
+
+  <a href="https://gitroll.io/profile/uAsSs4rB4IaRGTsBlwP1nziDsigr2" target="_blank">
+<img width="600px" src="https://gitroll.io/profile/uAsSs4rB4IaRGTsBlwP1nziDsigr2?theme=tokyoNight" alt="GitRoll Profile Badge"/>
+</a>
+
+
 </p>
 
 

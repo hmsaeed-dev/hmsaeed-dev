@@ -63,16 +63,16 @@
 
 
 <p align="center">
+
+<a href="https://gitroll.io/profile/uAsSs4rB4IaRGTsBlwP1nziDsigr2" target="_blank">
+<img width="500px"  src="https://gitroll.io/api/badges/profiles/v1/uAsSs4rB4IaRGTsBlwP1nziDsigr2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmsaeed-dev&custom_title=Contribution+Graph&hide_border=true&radius=16&height=300&bg_color=00000000&color=8a9e60&line=728649&point=b9d18b" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmsaeed-dev&theme=dark&hide_border=true&background=00000000&sideNums=8a9e60&lead=8a9e60&ring=728649&fire=b9d18b&currStreakNum=ffffff" alt="Streak Stats" />
-
-  <a href="https://gitroll.io/profile/uAsSs4rB4IaRGTsBlwP1nziDsigr2" target="_blank">
-<img width="600px" src="https://gitroll.io/profile/uAsSs4rB4IaRGTsBlwP1nziDsigr2?theme=tokyoNight" alt="GitRoll Profile Badge"/>
-</a>
-
 
 </p>
 

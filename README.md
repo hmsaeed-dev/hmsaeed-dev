@@ -18,6 +18,9 @@
   <a href="https://linkedin.com/in/hmsaeed" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=flat&color=728649&abbreviated=true&base=100" alt="Visitors" />
   </a>
+
+[![wakatime](https://wakatime.com/badge/user/3497868b-5da1-4fa4-b4b1-042063f4fa3b.svg)](https://wakatime.com/@3497868b-5da1-4fa4-b4b1-042063f4fa3b)
+
 </div>
 
 <p align="left">

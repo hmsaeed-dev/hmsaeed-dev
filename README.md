@@ -19,7 +19,8 @@
     <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=flat&color=728649&abbreviated=true&base=100" alt="Visitors" />
   </a>
 
-[![wakatime](https://wakatime.com/badge/user/3497868b-5da1-4fa4-b4b1-042063f4fa3b.svg)](https://wakatime.com/@3497868b-5da1-4fa4-b4b1-042063f4fa3b)
+[![wakatime](https://wakatime.com/badge/user/3497868b-5da1-4fa4-b4b1-042063f4fa3b.svg)](https://wakatime.com/@3497868b-5da1-4fa4-b4b1-042063f4fa3b)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Chess.com Rapid](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=chess.com&logoColor=white&labelColor=556B2F&radius=16&height=300&color=556B2F&label=Rapid&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FHMS_aeed%2Fstats)](https://www.chess.com/member/HMS_aeed)
 
 </div>
 
@@ -31,11 +32,9 @@
 
 ---
 
-  ### Right Now
-- 🎯 Focused on Web Development
-- 🌱 Learning C++ OOP
-- ♟️ Chess.com 1300+ ELO *(username : HMS_aeed)*
-- 🧠 Generalist - searching for the common THREAD
+  ### Now
+- Learning C++ OOP and Web Development
+- Generalist - searching for the common THREAD
 
 **Languages**
 <p align="left">

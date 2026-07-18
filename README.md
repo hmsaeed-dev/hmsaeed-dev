@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://hmsaeed.com" target="_blank" rel="noopener noreferrer">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a22,80:728649,100:8a9e60&height=200&section=header&text=Hafiz%20Muhammad%20Saeed&fontSize=55&fontFamily=Georgia&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer&descAlignY=55&descSize=18&descColor=c69c72"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a22,80:728649,100:8a9e60&height=200&section=header&text=Hafiz%20Muhammad%20Saeed&fontSize=55&fontFamily=Georgia&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20and%20Designer&descAlignY=55&descSize=18&descColor=c69c72"/>
   </a>
   
   <a href="https://git.io/typing-svg">
@@ -32,10 +32,6 @@
 
 ---
 
-  ### Now
-- Learning C++ OOP and Web Development
-- Generalist - searching for the common THREAD
-
 **Languages**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
@@ -48,9 +44,11 @@
 
 **Tools & Platforms**
 <p align="left">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" height="40" style="margin-right: 10px; filter: invert(100%);" width="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
 </p>
 
 

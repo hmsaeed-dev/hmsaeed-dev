@@ -35,14 +35,31 @@
 I am an undergraduate Computer Science student focused on building practical digital products, intelligent automation, and well-structured web applications. Currently I'm exploring frontend engineering, AI-assisted workflows and product-oriented software development.
 
 
-## Featured Projects
 
-| Project | Description | Core Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **💰 Finance Tracker** | Privacy-focused, offline-first finance dashboard with client-side encryption and PWA support. | `PWA` `Web Crypto` `JS Modules` | [View Repo ↗](https://github.com/hmsaeed-dev/finance-tracker) |
-| **🤖 Stockflow** | AI-driven image analysis and batch metadata automation pipeline.| `Python` `Vision AI` `Automation` | [View Repo ↗](https://github.com/hmsaeed-dev/stockflow) |
-| **📚 E-Library** | Modular digital library platform with dynamic JSON rendering, filtering, and modern UI. | `JavaScript` `Modular UI` `JSON` | [View Repo ↗](https://github.com/hmsaeed-dev/e-library) |
-
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 0 16px 20px 0;">
+      <a href="https://github.com/hmsaeed-dev/finance-tracker"><strong>Finance Tracker</strong></a><br>
+      <sub>Offline-first personal finance tool with client-side encryption.</sub><br>
+      <sub><code>PWA</code> · <code>Web Crypto</code> · <code>ES Modules</code></sub>
+    </td>
+    <td width="50%" valign="top" style="padding: 0 0 20px 16px;">
+      <a href="https://github.com/hmsaeed-dev/stockflow"><strong>Stockflow</strong></a><br>
+      <sub>AI pipeline for batch image analysis and metadata workflows.</sub><br>
+      <sub><code>Python</code> · <code>Vision AI</code> · <code>APIs</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 0 16px 0 0;">
+      <a href="https://github.com/hmsaeed-dev/e-library"><strong>E-Library</strong></a><br>
+      <sub>Modular catalog system with dynamic client-side filtering.</sub><br>
+      <sub><code>JavaScript</code> · <code>Modular UI</code> · <code>JSON</code></sub>
+    </td>
+    <td width="50%" valign="top" style="padding: 0 0 0 16px;">
+      <!-- Open slot for future project or clean balance -->
+    </td>
+  </tr>
+</table>
 
 **Toolkit**
 <p align="left">

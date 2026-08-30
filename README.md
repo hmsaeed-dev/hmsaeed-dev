@@ -38,24 +38,24 @@ I am an undergraduate Computer Science student focused on building practical dig
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top" style="padding: 0 16px 20px 0;">
+    <td width="50%" valign="top" style="padding: 24px 24px 24px 24px;">
       <a href="https://github.com/hmsaeed-dev/finance-tracker"><strong>Finance Tracker</strong></a><br>
       <sub>Offline-first personal finance tool with client-side encryption.</sub><br>
       <sub><code>PWA</code> · <code>Web Crypto</code> · <code>ES Modules</code></sub>
     </td>
-    <td width="50%" valign="top" style="padding: 0 0 20px 16px;">
+    <td width="50%" valign="top" style="padding: 24px 24px 24px 24px;">
       <a href="https://github.com/hmsaeed-dev/stockflow"><strong>Stockflow</strong></a><br>
       <sub>AI pipeline for batch image analysis and metadata workflows.</sub><br>
       <sub><code>Python</code> · <code>Vision AI</code> · <code>APIs</code></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="padding: 0 16px 0 0;">
+    <td width="50%" valign="top" style="padding: 24px 24px 24px 24px;">
       <a href="https://github.com/hmsaeed-dev/e-library"><strong>E-Library</strong></a><br>
       <sub>Modular catalog system with dynamic client-side filtering.</sub><br>
       <sub><code>JavaScript</code> · <code>Modular UI</code> · <code>JSON</code></sub>
     </td>
-    <td width="50%" valign="top" style="padding: 0 0 0 16px;">
+    <td width="50%" valign="top" style="padding: 24px 24px 24px 24px;">
       <a href="https://github.com/hmsaeed-dev/vehicle-management-system"><strong>Vehicle Management System</strong></a><br>
       <sub>A console-based vehicle rental and sales orchestration platform.</sub><br>
       <sub><code>OOP</code> · <code>File Handling</code> · <code>Management System</code></sub>
@@ -85,7 +85,9 @@ I am an undergraduate Computer Science student focused on building practical dig
 <p align="center">
 
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmsaeed-dev&custom_title=Contribution+Graph&hide_border=true&radius=16&height=300&bg_color=00000000&color=8a9e60&line=728649&point=b9d18b" width="100%" alt="Activity Graph" />
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hmsaeed-dev&theme=dark&hide_border=true&langs_count=5&include_all_commits=true&size_weight=0.5&count_weight=0.5&count_private=false&hide_title=true&layout=compact&text_color=c69c72&bg_color=000000)
+
+
 </p>
 
 

@@ -32,7 +32,28 @@
 
 ---
 
-**Languages**
+I am an undergraduate Computer Science student focused on building practical digital products, intelligent automation, and well-structured web applications. Currently I'm exploring frontend engineering, AI-assisted workflows and product-oriented software development.
+
+
+## Featured Projects
+
+💰 Finance Tracker
+Privacy-focused, offline-first personal finance command center built with Vanilla JavaScript. Includes encrypted local data, PWA capabilities, financial tracking, and a modular application architecture.
+Focus: PWA · Web Crypto · Offline-first · ES Modules
+[Explore Repository →]
+
+🤖 Stockflow
+AI-powered automation pipeline that analyzes images, generates descriptive filenames, and produces stock-image metadata for bulk submission workflows.
+Focus: Python · AI Vision · Automation · APIs
+[Explore Repository →]
+
+📚 E-Library
+A modular digital library platform with dynamic content rendering, search and filtering, reusable components, and responsive design.
+Focus: JavaScript · Modular Architecture · JSON · UI
+[Explore Repository →]
+
+
+**Toolkit**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
@@ -42,7 +63,7 @@
 </p>
 
 
-**Tools & Platforms**
+**Tools & Worflows**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
@@ -52,9 +73,6 @@
 
 
 <p align="center">
-
-<a href="https://gitroll.io/profile/uAsSs4rB4IaRGTsBlwP1nziDsigr2" target="_blank">
-<img width="500px"  src="https://gitroll.io/api/badges/profiles/v1/uAsSs4rB4IaRGTsBlwP1nziDsigr2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmsaeed-dev&custom_title=Contribution+Graph&hide_border=true&radius=16&height=300&bg_color=00000000&color=8a9e60&line=728649&point=b9d18b" width="100%" alt="Activity Graph" />

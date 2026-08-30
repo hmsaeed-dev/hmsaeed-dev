@@ -56,7 +56,9 @@ I am an undergraduate Computer Science student focused on building practical dig
       <sub><code>JavaScript</code> · <code>Modular UI</code> · <code>JSON</code></sub>
     </td>
     <td width="50%" valign="top" style="padding: 0 0 0 16px;">
-      <!-- Open slot for future project or clean balance -->
+      <a href="https://github.com/hmsaeed-dev/vehicle-management-system"><strong>Vehicle Management System</strong></a><br>
+      <sub>A high-performance, console-based vehicle rental and sales orchestration platform.</sub><br>
+      <sub><code>OOP</code> · <code>File Handling</code> · <code>Management System</code></sub>
     </td>
   </tr>
 </table>

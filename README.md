@@ -37,20 +37,11 @@ I am an undergraduate Computer Science student focused on building practical dig
 
 ## Featured Projects
 
-💰 Finance Tracker
-Privacy-focused, offline-first personal finance command center built with Vanilla JavaScript. Includes encrypted local data, PWA capabilities, financial tracking, and a modular application architecture.
-Focus: PWA · Web Crypto · Offline-first · ES Modules
-[Explore Repository →]
-
-🤖 Stockflow
-AI-powered automation pipeline that analyzes images, generates descriptive filenames, and produces stock-image metadata for bulk submission workflows.
-Focus: Python · AI Vision · Automation · APIs
-[Explore Repository →]
-
-📚 E-Library
-A modular digital library platform with dynamic content rendering, search and filtering, reusable components, and responsive design.
-Focus: JavaScript · Modular Architecture · JSON · UI
-[Explore Repository →]
+| Project | Description | Core Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **💰 Finance Tracker** | Privacy-focused, offline-first finance dashboard with client-side encryption and PWA support. | `PWA` `Web Crypto` `JS Modules` | [View Repo ↗](https://github.com/hmsaeed-dev/finance-tracker) |
+| **🤖 Stockflow** | AI-driven image analysis and batch metadata automation pipeline.| `Python` `Vision AI` `Automation` | [View Repo ↗](https://github.com/hmsaeed-dev/stockflow) |
+| **📚 E-Library** | Modular digital library platform with dynamic JSON rendering, filtering, and modern UI. | `JavaScript` `Modular UI` `JSON` | [View Repo ↗](https://github.com/hmsaeed-dev/e-library) |
 
 
 **Toolkit**

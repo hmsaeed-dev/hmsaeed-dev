@@ -57,7 +57,7 @@ I am an undergraduate Computer Science student focused on building practical dig
     </td>
     <td width="50%" valign="top" style="padding: 0 0 0 16px;">
       <a href="https://github.com/hmsaeed-dev/vehicle-management-system"><strong>Vehicle Management System</strong></a><br>
-      <sub>A high-performance, console-based vehicle rental and sales orchestration platform.</sub><br>
+      <sub>A console-based vehicle rental and sales orchestration platform.</sub><br>
       <sub><code>OOP</code> · <code>File Handling</code> · <code>Management System</code></sub>
     </td>
   </tr>

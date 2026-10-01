@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/HMSaeed.com-00C7B7?style=flat&logo=auth0&color=b9d18b&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hmsaeed" target="_blank" rel="noopener noreferrer">
+  <a href="https://komarev.com/ghpvc/?username=hmsaeed-dev">
     <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=flat&color=728649&abbreviated=true&base=100" alt="Visitors" />
   </a>
 

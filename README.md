@@ -32,8 +32,7 @@
 
 ---
 
-I am an undergraduate Computer Science student focused on building practical digital products, intelligent automation, and well-structured web applications. Currently I'm exploring frontend engineering, AI-assisted workflows and product-oriented software development.
-
+Computer Science student at UET Taxila. Engineering offline-first applications, low-level systems in C++, and capturing the quiet geometry of the world through macro lenses.
 
 
 <table width="100%" style="border-collapse: collapse;">

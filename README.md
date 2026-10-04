@@ -1,26 +1,26 @@
 <div align="center">
 
   <a href="https://hmsaeed.com" target="_blank" rel="noopener noreferrer">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a22,80:728649,100:8a9e60&height=200&section=header&text=Hafiz%20Muhammad%20Saeed&fontSize=55&fontFamily=Georgia&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20and%20Designer&descAlignY=55&descSize=18&descColor=c69c72"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151927,80:151927,100:C94A2F&height=200&section=header&text=Hafiz%20Muhammad%20Saeed&fontSize=55&fontFamily=Georgia&fontColor=F7F5F1&animation=fadeIn&fontAlignY=35&desc=Developer%20and%20Designer&descAlignY=55&descSize=18&descColor=F7F5F1"/>
   </a>
-  
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&size=28&pause=900&color=8a9e60&width=600&center=true&height=40&lines=Undergrad+Computer+Science+UET+Taxila" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=900&size=28&pause=900&color=C94A2F&width=600&center=true&height=40&lines=Undergrad+Computer+Science+UET+Taxila" alt="Typing SVG" />
   </a>
-  
+
 </div>
 
 <div align="center">
   <a href="https://hmsaeed.com">
-    <img src="https://img.shields.io/badge/HMSaeed.com-00C7B7?style=flat&logo=auth0&color=b9d18b&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/HMSaeed.com-151927?style=flat&logo=auth0&color=C94A2F&logoColor=F7F5F1" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://komarev.com/ghpvc/?username=hmsaeed-dev">
-    <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=flat&color=728649&abbreviated=true&base=100" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=hmsaeed-dev&style=flat&color=C94A2F&abbreviated=true&base=100" alt="Visitors" />
   </a>
 
-[![wakatime](https://wakatime.com/badge/user/3497868b-5da1-4fa4-b4b1-042063f4fa3b.svg)](https://wakatime.com/@3497868b-5da1-4fa4-b4b1-042063f4fa3b)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Chess.com Rapid](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=chess.com&logoColor=white&labelColor=556B2F&radius=16&height=300&color=556B2F&label=Rapid&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FHMS_aeed%2Fstats)](https://www.chess.com/member/HMS_aeed)
+[![wakatime](https://wakatime.com/badge/user/3497868b-5da1-4fa4-b4b1-042063f4fa3b.svg)](https://wakatime.com/@3497868b-5da1-4fa4-b4b1-042063f4fa3b)    
+[![Chess.com Rapid](https://img.shields.io/badge/dynamic/json?style=flat-square\&logo=chess.com\&logoColor=F7F5F1\&labelColor=151927\&radius=16\&height=300\&color=C94A2F\&label=Rapid\&query=%24.chess_rapid.last.rating\&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FHMS_aeed%2Fstats)](https://www.chess.com/member/HMS_aeed)
 
 </div>
 
@@ -33,7 +33,6 @@
 ---
 
 Computer Science student at UET Taxila. Engineering offline-first applications, low-level systems in C++, and capturing the quiet geometry of the world through macro lenses.
-
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -63,6 +62,7 @@ Computer Science student at UET Taxila. Engineering offline-first applications, 
 </table>
 
 **Toolkit**
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
@@ -71,8 +71,8 @@ Computer Science student at UET Taxila. Engineering offline-first applications, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
-
 **Tools & Worflows**
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
@@ -80,18 +80,14 @@ Computer Science student at UET Taxila. Engineering offline-first applications, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" style="margin-right: 10px;"/>&nbsp;&nbsp;
 </p>
 
-
 <p align="center">
 
-  
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hmsaeed-dev&theme=dark&hide_border=true&langs_count=5&include_all_commits=true&size_weight=0.5&count_weight=0.5&count_private=false&hide_title=true&layout=compact&text_color=c69c72&bg_color=000000)
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hmsaeed-dev\&theme=dark\&hide_border=true\&langs_count=5\&include_all_commits=true\&size_weight=0.5\&count_weight=0.5\&count_private=false\&hide_title=true\&layout=compact\&text_color=F7F5F1\&bg_color=151927)
 
 </p>
 
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a22,80:728649,100:8a9e60&height=100&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151927,80:151927,100:C94A2F&height=100&section=footer&animation=fadeIn"/>
 
 </div>
